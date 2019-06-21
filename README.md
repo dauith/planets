@@ -1,2 +1,0 @@
-# planets
-Software Carpentries exercises
